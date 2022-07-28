@@ -7,6 +7,6 @@ The epitopes are foreign peptides (small proteins) that take part in the immune-
 
 ✨ **PI-Calculation:** The PI (Point Isoelectric) value is the point when the protein has no charge.
 
-✨ **Radius of Gyration:** Calculate with the root mean square distance from each atom of the protein to their centroid.
+✨ **Radius of Gyration:** The root mean square distance from each atom of the protein to their centroid.
 
 
